@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Resume</title>
+</head>
+<body>
+
+	<strong><h2>Anubhav Baranawal</h2></strong>
+	<p>Software Engineer</p>
+	<h3>Objective:</h3>
+	<p>Focused Computer Science major(82.91%) currently attending S.R.M Institute of Science and Technology,with 1+ year of work experience. Aiming to leverage a proven knowledge of App development,Competitive Programming, Database skills to successful fill the Software Engineer role at your company.Frequently praised as hard-working by my peers, I can be relied upon to help your company achieve its goals.</p>
+	<h3>Interest:</h3>
+	<ol>
+		<li>Competitive Coding</li>
+		<li>Basketball</li>
+	</ol>
+	<h3>Skill Set:</h3>
+	<p>
+		<ol>
+			<li>Coding</li>
+			<li>Android development</li>
+			<li>C++</li>
+			<li>Java</li>
+			<li>Nodejs</li>
+		</ol>
+	</p>
+	<h3>Education:</h3>
+	<p>
+	<ul>
+		<li>Bachelor of Engineering(B.tech): S.R.M Institute of Science and Technology. Percentage: 82.91%</li>
+		<li>Delhi Public School.</li>
+		<li>G.B. MODI Vidhya Mandhir. Percentage: 95%</li>
+	</ul>
+	</p>
+	<p></p>
+	<h3>Experience:</h3>
+	<p>
+		<ul>
+			<li>NTPC Limited(Worked on Network and database)</li>
+			<li>Worked with Woovly student Campus Ambassador program.</li>
+		</ul>
+	</p>
+	<h3>Extra Curricular Activities:</h3>
+	<p>
+		<ul>
+			<li>Swimming</li>
+			<li>Dancing</li>
+		</ul>
+	</p>
+
+</body>
+</html>
